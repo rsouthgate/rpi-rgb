@@ -5,7 +5,7 @@
 module.exports.Channel = Channel;
 module.exports.Colour = Colour;
 
-var gpio = require('wiring-pi');
+var gpio = require('node-wiring-pi');
 var math = require('mathjs');
 
 function Colour (red, green, blue) {

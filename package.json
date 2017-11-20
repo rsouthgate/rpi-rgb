@@ -1,27 +1,20 @@
 {
-  "name": "rpi-rgb",
-  "version": "1.1.10",
+  "name": "@rsouthgate/rpi-rgb",
+  "version": "1.0.0",
   "description": "Implements PWM control of RGB lighting via Raspberry Pi GPIO",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "wiring-pi": "^2.1.1",
+    "node-wiring-pi": "^0.0.3",
     "mathjs": "^3.2.1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SteveMacAwesome/rpi-rgb.git"
   },
-  "keywords": [
-    "raspberrypi",
-    "wiringpi",
-    "gpio",
-    "led",
-    "pwm",
-    "rgb"
-  ],
+  "keywords": ["raspberrypi", "wiringpi", "gpio", "led", "pwm", "rgb"],
   "author": "Ben \"Steve macAwesome\" Allen",
   "license": "GPL-3.0",
   "bugs": {

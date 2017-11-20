@@ -1,5 +1,5 @@
 {
-  "name": "@rsouthgate/rpi-rgb",
+  "name": "@robinsouthgate/rpi-rgb",
   "version": "1.0.0",
   "description": "Implements PWM control of RGB lighting via Raspberry Pi GPIO",
   "main": "index.js",
